@@ -507,7 +507,6 @@ int main() {
 // Generate a random rank and suit
     int randomRankIndex = rand() % 13;
     int randomSuitIndex = rand() % 4;
-// Display the picked card
     cout << "You picked the " << ranks[randomRankIndex] << " of " << suits[randomSuitIndex] <<
          ".\n";
     return 0;
