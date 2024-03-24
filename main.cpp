@@ -360,6 +360,7 @@ int main() {
                 cout << "Six" << endl;
                 break;
             case 7:
+
                 cout << "Seven" << endl;
                 break;
             case 8:
